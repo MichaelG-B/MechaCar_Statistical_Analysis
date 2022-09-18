@@ -53,4 +53,4 @@ What statistical test would you use to test the hypothesis? And why?
  - I would use a multiple linear regression test to determine the independent varaibles that have the highest correlation with the Fuel Efficiency (dependent variable) and which combination has the best price points.
 
 What data is needed to run the statistical test?
- - The necessary date needed to run this statistical test would be measurements of each variable ( Dependent and Independent) of MechaCar and its competitors in its class, the more the better and the collection of such measurements would ideally be over a 5 year period as this would provide plenty of data points to gather impactful relational correlations.
+ - The necessary data needed to run this statistical test would be measurements of each variable ( Dependent and Independent) of MechaCar and its competitors in its class, the more the better and the collection of such measurements would ideally be over a 5 year period as this would provide plenty of data points to gather impactful relational correlations.
