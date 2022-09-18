@@ -2,6 +2,8 @@
 
 ## Linear Regression to Predict MPG
 
+![Module 15-1](https://github.com/MichaelG-B/MechaCar_Statistical_Analysis/blob/99d2f05921b8969a3ad54da601489a61356a8caf/Module%2015-1.png)
+
 - Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
   - The two variables that provided a non-random amount of variance to the mpg values in the dataset were:
    - ground_clearance
@@ -12,10 +14,17 @@
  - I would say overall no, meaning better models are definitely possible. My reasoning for this is due to the fact that not all of the variables, notably spoiler_angle, AWD, and vehicle_weight were above our significance level meaning they had little to no impact on mpg, only vehicle weight came close. Additionally our adjusted R-squared value was 0.6825, which is not much better than .5 percent of the variaton. I would argue a R-squared value of over .8 percent would provide us with a more meaningful linear model to predict mpg of MechaCar prototypes effectively.
 
 ## Summary Statistics on Suspension Coils
+
+![Module 15-2](https://github.com/MichaelG-B/MechaCar_Statistical_Analysis/blob/99d2f05921b8969a3ad54da601489a61356a8caf/Module%2015-2.png)
+![Module 15-3](https://github.com/MichaelG-B/MechaCar_Statistical_Analysis/blob/99d2f05921b8969a3ad54da601489a61356a8caf/Module%2015-3.png)
+
 - The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch. Does the current manufacturing data meet this design specification for all manufacturing lots in total and each lot individually? Why or why not?
  - Yes for the lots in total the variance in the suspension coils does not exceed 100 pounds per square inch, however this variance is exceeded in only one of the individual lots that being lot 3. Lot 3 has a suspension coil variance of 170 pounds per square inch nearly double the design specifications.
 
 ## T-Tests on Suspension Coils
+
+![Module 15-4](https://github.com/MichaelG-B/MechaCar_Statistical_Analysis/blob/99d2f05921b8969a3ad54da601489a61356a8caf/Module%2015-4.png)
+![Module 15-5](https://github.com/MichaelG-B/MechaCar_Statistical_Analysis/blob/99d2f05921b8969a3ad54da601489a61356a8caf/Module%2015-5.png)
 
 - T-test results:
  - lot 1 results --> p-value of 1
